@@ -1,0 +1,21 @@
+.navbar-icon {
+	width: 100px;
+	height: 80px;
+	border-radius: 10px;
+}
+.navbar {
+	background-color: transparent;
+	width: 85%;
+	align-items: center;
+	margin: auto;
+}
+#responsive-navbar-nav {
+	align-items: right;
+}
+Navlink {
+	padding: 15px;
+	border-bottom: 20px;
+}
+.navbar-section {
+	border-bottom: 2px solid rgb(0, 204, 255);
+}

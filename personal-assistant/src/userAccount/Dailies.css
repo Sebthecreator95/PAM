@@ -1,0 +1,14 @@
+.dailies {
+	background-color: white;
+	padding-top: 10%;
+	border-radius: 20px;
+	align-items: center;
+	align-content: center;
+	display: inline-flexbox;
+}
+.daily {
+	align-content: center;
+	align-items: center;
+	align-self: center;
+	width: auto;
+}

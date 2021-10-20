@@ -1,0 +1,17 @@
+.container {
+	padding-bottom: 5%;
+}
+.dailies-section {
+	align-items: center;
+	padding: 3%;
+	box-shadow: 20px;
+	border-radius: 20px;
+}
+.right-side {
+	padding: 3%;
+	border-radius: 20px;
+	background-color: rgb(0, 204, 255);
+	box-shadow: 20px;
+	align-content: center;
+	align-items: center;
+}
