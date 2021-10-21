@@ -1,6 +1,7 @@
 import React, { useContext } from "react";
 import { Link, NavLink } from "react-router-dom";
-import { Navbar, DropdownButton, Nav, Row, Col, Container, Dropdown, NavbarCollapse } from 'react-bootstrap';
+import { Navbar, DropdownButton, Nav, Row, Col, Container, Dropdown } from 'react-bootstrap';
+import NavbarCollapse from "react-bootstrap/esm/NavbarCollapse";
 import UserContext from "../authentication/UserContext";
 import "./Navbar.css";
 

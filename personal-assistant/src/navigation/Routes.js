@@ -5,8 +5,6 @@ import WelcomePage from "../welcomePage/WelcomePage";
 import SignupForm from "../authentication/SignupForm";
 import LoginForm from "../authentication/LoginForm";
 import UserAccount from "../userAccount/UserAccount";
-import EventForm from "../userAccount/forms/EventsForm";
-import DailiesForm from "../userAccount/forms/DailiesForm";
 import NotFound from "../NotFound";
 
 function Routes({ login, signup }) {

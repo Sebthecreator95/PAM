@@ -1,8 +1,13 @@
 # PAM APPLICATION
 # Personal Assitant Manager-- PAM-APP
 
-## API: 
-API in production https://git.heroku.com/p-a-m-app.git
+## DEPLOYED
+
+p-a-m.surge.sh
+
+## API
+API in production 
+https://p-a-m-app.herokuapp.com/
 API in development https://localhost:30001/
 
 API FOR QUOTES http://quotes.rest/qod.json
@@ -82,7 +87,7 @@ set up a enviromental variable with process.env.SECRET_KEY for secret key
 
 ### FRONTEND
 
-Frontend template with React:
+Frontend template with React hosted https://localhost:5000/:
 react — generated template with a common React app.
 react-ts — generated template with a TypeScript version of the React app.
 npm i

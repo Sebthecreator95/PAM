@@ -2,7 +2,6 @@ import React,{useEffect, useState} from "react";
 import { Container, Navbar } from "react-bootstrap";
 import quoteRequest from "../api/QuoteApi";
 import "./Quote.css"
-import speak from "./speak";
 
 
 function Quote(){
